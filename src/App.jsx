@@ -123,6 +123,7 @@ function App() {
           repeat={Infinity}
           className="text-blue-400 text-xl mt-4"
         />
+        <p className="mt-4 text-red-400">Update test 🔥</p>
       </section>
 
       {/* Skills */}
